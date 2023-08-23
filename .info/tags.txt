@@ -1,0 +1,3 @@
+terraform
+poshy-wrap
+pwshrc
